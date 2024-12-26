@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Log_Auth_Section</string>
+    <string name="error_field_required">Ce champ est requis</string>
+    <string name="error_invalid_email">Cette adresse e-mail n\'est pas valide</string>
+    <string name="error_invalid_password">Le mot de passe doit contenir au moins 6 caractères</string>
+    <string name="error_invalid_phone">Numéro de téléphone non valide</string>error_timeout
+    <string name="error_timeout">Une erreur est survenue lors!</string>
+    <string name="welcome_message">Soyez le Bienvenu!</string>
+</resources>
